@@ -7,7 +7,6 @@ html {
 }
 
 body {
-  margin: 20px;
 }
 
 label,
@@ -123,5 +122,5 @@ button:active {
   margin: 1rem;
   padding: 1rem;
   border: 1px solid #ff0062;
-  background: #f7f7f7;
+  background: #c1d3f6;
 }
